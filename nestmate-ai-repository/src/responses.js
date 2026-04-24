@@ -1,4 +1,4 @@
-// =============================================
+// ============================================
 // responses.js — AI Chat Responses
 // ADD NEW RESPONSES HERE when you want to
 // update what the bot says
